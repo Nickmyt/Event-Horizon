@@ -1,0 +1,8 @@
+/build/
+/media/*.mp4
+/media/archive/
+.DS_Store
+*.dSYM/
+*.o
+/NOTES.md
+/NOTES-el.md
